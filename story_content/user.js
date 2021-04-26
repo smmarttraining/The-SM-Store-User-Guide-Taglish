@@ -2,19 +2,19 @@ function ExecuteScript(strId)
 {
   switch (strId)
   {
-      case "6iyEFhlfgoO":
+      case "6KpLnUIkQYZ":
         Script1();
         break;
-      case "5j9frGHkQxp":
+      case "6c34F1KFdxG":
         Script2();
         break;
-      case "61f2n2oNiy5":
+      case "6llCQ5lpmFq":
         Script3();
         break;
-      case "5fGIiNjgYzD":
+      case "5b6OFpF0mYl":
         Script4();
         break;
-      case "6bCsIpjIg6i":
+      case "6qId9Jzx6P1":
         Script5();
         break;
   }
@@ -38,7 +38,7 @@ function add_line() {
 if(document.getElementById('bgSong')==null){
 	add_line();
 var audio = document.getElementById('bgSong');
-audio.volume = 0.05;
+audio.volume = 0.03;
 }
 
 }
